@@ -1,0 +1,44 @@
+*{
+  font-family: verdana;
+  text-align: center;
+  background-color: black;
+}
+
+h1{
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+#footer {
+  text-align: right;
+}
+
+/* unvisited link */
+a:link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* visited link */
+a:visited {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* mouse over link */
+a:hover {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* selected link */
+a:active {
+    color: aquamarine;
+    font-size: 16px;
+}
